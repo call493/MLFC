@@ -40,6 +40,3 @@ This repository contains a Jupyter/Colab notebook exploring the relationship bet
 - Outlier identification and discussion of collinearity issues.
 
 No local configuration needed—just open in Colab.
-
-> For questions, contributions, or extension to other contexts (e.g., regional analyses, more indicators), open an issue or pull request.
-
